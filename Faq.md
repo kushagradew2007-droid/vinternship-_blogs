@@ -215,6 +215,8 @@ Appeal Form: https://forms.gle/6VBbrjkcAvSDPX2J7
 **6.4 Can I rejoin the program after discontinuation?**  
 Yes, once discontinued, you can rejoin the current program via the appeal form. If we find the reason to be genuine, you will be permitted to continue with the current cohort. If not, you would need to apply afresh for any future program offerings, subject to availability.
 
+You'll be moved to a Discord channel from the existing ones after discontinuation.
+
 **6.5 How does the Discontinuation Policy differ from the Ejection Policy?**  
 The Discontinuation Policy addresses prolonged inactivity at an administrative level, while the Ejection Policy (see Section 9) is a real-time, algorithm-based mechanism focused on maintaining cohort momentum and learning quality.
 
